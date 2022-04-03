@@ -3,42 +3,42 @@
       "_id": 1,
       "picture": "https://i.pinimg.com/originals/eb/1f/7f/eb1f7f69edf91e95ae1346ae2c495447.jpg",
       "rating": 4.7,
-      "text": "I like this chicken. Highly recommended",
+      "text": "I like this chicken. Highly recommended.",
       "name": "Hero Alom"
     },
     {
       "_id": 2,
       "picture": "https://dailyasianage.com/library/1491416207Dhaka%20Keka.jpg",
-      "rating": 4.7,
-      "text": "Eta diye Murgi er noodles bananor jonno best hobe",
+      "rating": 4.0,
+      "text": "Eta diye Murgi er noodles bananor jonno best hobe.",
       "name": "Keka Ferdoushi"
     },
     {
       "_id": 3,
       "picture": "https://wiki.factsider.com/wp-content/uploads/2019/08/Dr-Mahfuzur-Rahman-263x300.png",
-      "rating": 4.7,
+      "rating": 5.0,
       "text": "I ate it with my family they enjoyed.",
       "name": "Mahfuzur Rahman"
     },
     {
       "_id": 4,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zayed_Khan%2C_Dhaka_2018_%281%29_%28cropped%29.jpg/1200px-Zayed_Khan%2C_Dhaka_2018_%281%29_%28cropped%29.jpg",
-      "rating": 4.7,
-      "text": "Amra eta potita shooting set a khai khub testy",
+      "rating": 4.9,
+      "text": "Amra eta potita shooting set a khai khub testy.",
       "name": "Zayed Khan"
     },
     {
       "_id": 5,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Nipun_Akter_%28cropped%29.jpg",
-      "rating": 4.7,
-      "text": "It was fresh and good. 100% recommended",
+      "rating": 4.2,
+      "text": "It was fresh and good. 100% recommended.",
       "name": "Nipun Akter"
     },
     {
       "_id": 6,
       "picture": "https://www.thedailybiography.com/wp-content/uploads/2020/01/Model-Toya.jpg",
-      "rating": 4.7,
-      "text": "Eta amr madam kheye khub pocondo koreche. Stoke baran aro kinbo",
+      "rating": 4.0,
+      "text": "Eta amr madam kheye khub pocondo koreche. ",
       "name": "Ful Banu"
     }
   ]

@@ -11,8 +11,7 @@ const Reviews = () => {
     },[])
 
     return (
-        <div>
-            <h2>Reviews are here</h2>
+        <div className='grid md:grid-cols-3 gap-4 mt-10 px-10'>
             {
                 reviews.map(review => <Review key={review._id} review={review}></Review>)
             }
