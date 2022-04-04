@@ -1,8 +1,8 @@
-## Best Chicken
+# Best Chicken
 
 Live Link: https://best-chicken-nazm0l.netlify.app/
 
-# Project Features
+## Project Features
 - User reviews
 - User can navigate easily
 - Total earning chart
