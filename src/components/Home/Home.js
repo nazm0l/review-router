@@ -1,12 +1,11 @@
 import React from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import Footer from "../Footer/Footer";
 import Header from "../Header/Header";
 import useReviews from "../Hook/useReviews";
 import NewReview from "../NewReview/NewReview";
 
 const Home = () => {
-  const navigate = useNavigate("/reviews");
 
   const [reviews, setReviews] = useReviews();
   const newReview = reviews.slice(0, 3);
